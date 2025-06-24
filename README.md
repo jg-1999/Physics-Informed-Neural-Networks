@@ -1,6 +1,6 @@
 # Physics-Informed-Neural-Networks
 
-Este directorio contiene una colección de proyectos enfocados en la aplicación de Physics-Informed Neural Networks (PINNs) para la resolución de ecuaciones diferenciales. Cada subcarpeta representa un caso de estudio distinto, con un enfoque académico e ilustrativo.
+Este repositorio contiene una colección de proyectos enfocados en la aplicación de Physics-Informed Neural Networks (PINNs) para la resolución de ecuaciones diferenciales. Cada subcarpeta representa un caso de estudio distinto, con un enfoque académico e ilustrativo.
 
 # 📌 Cada proyecto incluye:
 
