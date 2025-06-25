@@ -13,6 +13,9 @@ Este repositorio contiene una colección de proyectos enfocados en la aplicació
 Este repositorio está pensado como base para futuros desarrollos y documentación relacionada con PINNs.
 
 #
+#
+
+# ENGLISH VERSION
 
 This repository contains a collection of projects focused on the application of Physics-Informed Neural Networks (PINNs) to solving differential equations. Each subfolder represents a different case study, with an academic and illustrative focus.
 
